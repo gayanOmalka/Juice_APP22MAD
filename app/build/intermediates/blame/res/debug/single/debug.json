@@ -1,0 +1,266 @@
+[
+    {
+        "merged": "E:\\2022\\MAD Project\\juice_Bar_\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_dialog.xml.flat",
+        "source": "E:\\2022\\MAD Project\\juice_Bar_\\app\\src\\main\\res\\layout\\layout_dialog.xml"
+    },
+    {
+        "merged": "E:\\2022\\MAD Project\\juice_Bar_\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "E:\\2022\\MAD Project\\juice_Bar_\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "E:\\2022\\MAD Project\\juice_Bar_\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "E:\\2022\\MAD Project\\juice_Bar_\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\2022\\MAD Project\\juice_Bar_\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hall_a.jpg.flat",
+        "source": "E:\\2022\\MAD Project\\juice_Bar_\\app\\src\\main\\res\\drawable\\hall_a.jpg"
+    },
+    {
+        "merged": "E:\\2022\\MAD Project\\juice_Bar_\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_pick_hall_screen.xml.flat",
+        "source": "E:\\2022\\MAD Project\\juice_Bar_\\app\\src\\main\\res\\layout\\activity_pick_hall_screen.xml"
+    },
+    {
+        "merged": "E:\\2022\\MAD Project\\juice_Bar_\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_ash_color_background.xml.flat",
+        "source": "E:\\2022\\MAD Project\\juice_Bar_\\app\\src\\main\\res\\drawable\\button_ash_color_background.xml"
+    },
+    {
+        "merged": "E:\\2022\\MAD Project\\juice_Bar_\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register_screen.xml.flat",
+        "source": "E:\\2022\\MAD Project\\juice_Bar_\\app\\src\\main\\res\\layout\\activity_register_screen.xml"
+    },
+    {
+        "merged": "E:\\2022\\MAD Project\\juice_Bar_\\app\\build\\intermediates\\res\\merged\\debug\\drawable_juselogoo.jpg.flat",
+        "source": "E:\\2022\\MAD Project\\juice_Bar_\\app\\src\\main\\res\\drawable\\juselogoo.jpg"
+    },
+    {
+        "merged": "E:\\2022\\MAD Project\\juice_Bar_\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_payment.xml.flat",
+        "source": "E:\\2022\\MAD Project\\juice_Bar_\\app\\src\\main\\res\\drawable\\ic_payment.xml"
+    },
+    {
+        "merged": "E:\\2022\\MAD Project\\juice_Bar_\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_delivery_information_screen.xml.flat",
+        "source": "E:\\2022\\MAD Project\\juice_Bar_\\app\\src\\main\\res\\layout\\activity_delivery_information_screen.xml"
+    },
+    {
+        "merged": "E:\\2022\\MAD Project\\juice_Bar_\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_primary_color_background.xml.flat",
+        "source": "E:\\2022\\MAD Project\\juice_Bar_\\app\\src\\main\\res\\drawable\\button_primary_color_background.xml"
+    },
+    {
+        "merged": "E:\\2022\\MAD Project\\juice_Bar_\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_juices_screen.xml.flat",
+        "source": "E:\\2022\\MAD Project\\juice_Bar_\\app\\src\\main\\res\\layout\\activity_juices_screen.xml"
+    },
+    {
+        "merged": "E:\\2022\\MAD Project\\juice_Bar_\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home_screen.xml.flat",
+        "source": "E:\\2022\\MAD Project\\juice_Bar_\\app\\src\\main\\res\\layout\\activity_home_screen.xml"
+    },
+    {
+        "merged": "E:\\2022\\MAD Project\\juice_Bar_\\app\\build\\intermediates\\res\\merged\\debug\\menu_navigation.xml.flat",
+        "source": "E:\\2022\\MAD Project\\juice_Bar_\\app\\src\\main\\res\\menu\\navigation.xml"
+    },
+    {
+        "merged": "E:\\2022\\MAD Project\\juice_Bar_\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smoktail.jpg.flat",
+        "source": "E:\\2022\\MAD Project\\juice_Bar_\\app\\src\\main\\res\\drawable\\smoktail.jpg"
+    },
+    {
+        "merged": "E:\\2022\\MAD Project\\juice_Bar_\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\2022\\MAD Project\\juice_Bar_\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\2022\\MAD Project\\juice_Bar_\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_mocktails_screen.xml.flat",
+        "source": "E:\\2022\\MAD Project\\juice_Bar_\\app\\src\\main\\res\\layout\\activity_mocktails_screen.xml"
+    },
+    {
+        "merged": "E:\\2022\\MAD Project\\juice_Bar_\\app\\build\\intermediates\\res\\merged\\debug\\drawable_profile_picture.png.flat",
+        "source": "E:\\2022\\MAD Project\\juice_Bar_\\app\\src\\main\\res\\drawable\\profile_picture.png"
+    },
+    {
+        "merged": "E:\\2022\\MAD Project\\juice_Bar_\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_reservation.xml.flat",
+        "source": "E:\\2022\\MAD Project\\juice_Bar_\\app\\src\\main\\res\\layout\\activity_reservation.xml"
+    },
+    {
+        "merged": "E:\\2022\\MAD Project\\juice_Bar_\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dessert.jpg.flat",
+        "source": "E:\\2022\\MAD Project\\juice_Bar_\\app\\src\\main\\res\\drawable\\dessert.jpg"
+    },
+    {
+        "merged": "E:\\2022\\MAD Project\\juice_Bar_\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_profile.xml.flat",
+        "source": "E:\\2022\\MAD Project\\juice_Bar_\\app\\src\\main\\res\\drawable\\ic_profile.xml"
+    },
+    {
+        "merged": "E:\\2022\\MAD Project\\juice_Bar_\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\2022\\MAD Project\\juice_Bar_\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\2022\\MAD Project\\juice_Bar_\\app\\build\\intermediates\\res\\merged\\debug\\drawable_juice.png.flat",
+        "source": "E:\\2022\\MAD Project\\juice_Bar_\\app\\src\\main\\res\\drawable\\juice.png"
+    },
+    {
+        "merged": "E:\\2022\\MAD Project\\juice_Bar_\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mmoktail.jpg.flat",
+        "source": "E:\\2022\\MAD Project\\juice_Bar_\\app\\src\\main\\res\\drawable\\mmoktail.jpg"
+    },
+    {
+        "merged": "E:\\2022\\MAD Project\\juice_Bar_\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login_screen.xml.flat",
+        "source": "E:\\2022\\MAD Project\\juice_Bar_\\app\\src\\main\\res\\layout\\activity_login_screen.xml"
+    },
+    {
+        "merged": "E:\\2022\\MAD Project\\juice_Bar_\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_update_reservation.xml.flat",
+        "source": "E:\\2022\\MAD Project\\juice_Bar_\\app\\src\\main\\res\\layout\\activity_update_reservation.xml"
+    },
+    {
+        "merged": "E:\\2022\\MAD Project\\juice_Bar_\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mfdessert.jpg.flat",
+        "source": "E:\\2022\\MAD Project\\juice_Bar_\\app\\src\\main\\res\\drawable\\mfdessert.jpg"
+    },
+    {
+        "merged": "E:\\2022\\MAD Project\\juice_Bar_\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bookjb.jpg.flat",
+        "source": "E:\\2022\\MAD Project\\juice_Bar_\\app\\src\\main\\res\\drawable\\bookjb.jpg"
+    },
+    {
+        "merged": "E:\\2022\\MAD Project\\juice_Bar_\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_cart.xml.flat",
+        "source": "E:\\2022\\MAD Project\\juice_Bar_\\app\\src\\main\\res\\drawable\\ic_cart.xml"
+    },
+    {
+        "merged": "E:\\2022\\MAD Project\\juice_Bar_\\app\\build\\intermediates\\res\\merged\\debug\\drawable_payment_methods_pic.png.flat",
+        "source": "E:\\2022\\MAD Project\\juice_Bar_\\app\\src\\main\\res\\drawable\\payment_methods_pic.png"
+    },
+    {
+        "merged": "E:\\2022\\MAD Project\\juice_Bar_\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_layout.xml.flat",
+        "source": "E:\\2022\\MAD Project\\juice_Bar_\\app\\src\\main\\res\\layout\\item_layout.xml"
+    },
+    {
+        "merged": "E:\\2022\\MAD Project\\juice_Bar_\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash_screen.xml.flat",
+        "source": "E:\\2022\\MAD Project\\juice_Bar_\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "E:\\2022\\MAD Project\\juice_Bar_\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "E:\\2022\\MAD Project\\juice_Bar_\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\2022\\MAD Project\\juice_Bar_\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_reservation_screen.xml.flat",
+        "source": "E:\\2022\\MAD Project\\juice_Bar_\\app\\src\\main\\res\\layout\\activity_reservation_screen.xml"
+    },
+    {
+        "merged": "E:\\2022\\MAD Project\\juice_Bar_\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\2022\\MAD Project\\juice_Bar_\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\2022\\MAD Project\\juice_Bar_\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edit_text_background.xml.flat",
+        "source": "E:\\2022\\MAD Project\\juice_Bar_\\app\\src\\main\\res\\drawable\\edit_text_background.xml"
+    },
+    {
+        "merged": "E:\\2022\\MAD Project\\juice_Bar_\\app\\build\\intermediates\\res\\merged\\debug\\layout_reservation_item.xml.flat",
+        "source": "E:\\2022\\MAD Project\\juice_Bar_\\app\\src\\main\\res\\layout\\reservation_item.xml"
+    },
+    {
+        "merged": "E:\\2022\\MAD Project\\juice_Bar_\\app\\build\\intermediates\\res\\merged\\debug\\drawable_omoktail.jpg.flat",
+        "source": "E:\\2022\\MAD Project\\juice_Bar_\\app\\src\\main\\res\\drawable\\omoktail.jpg"
+    },
+    {
+        "merged": "E:\\2022\\MAD Project\\juice_Bar_\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_reservation_confirm_screen.xml.flat",
+        "source": "E:\\2022\\MAD Project\\juice_Bar_\\app\\src\\main\\res\\layout\\activity_reservation_confirm_screen.xml"
+    },
+    {
+        "merged": "E:\\2022\\MAD Project\\juice_Bar_\\app\\build\\intermediates\\res\\merged\\debug\\drawable_substract_icon.png.flat",
+        "source": "E:\\2022\\MAD Project\\juice_Bar_\\app\\src\\main\\res\\drawable\\substract_icon.png"
+    },
+    {
+        "merged": "E:\\2022\\MAD Project\\juice_Bar_\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\2022\\MAD Project\\juice_Bar_\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\2022\\MAD Project\\juice_Bar_\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_shopping_cart_screen.xml.flat",
+        "source": "E:\\2022\\MAD Project\\juice_Bar_\\app\\src\\main\\res\\layout\\activity_shopping_cart_screen.xml"
+    },
+    {
+        "merged": "E:\\2022\\MAD Project\\juice_Bar_\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "E:\\2022\\MAD Project\\juice_Bar_\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "E:\\2022\\MAD Project\\juice_Bar_\\app\\build\\intermediates\\res\\merged\\debug\\layout_cart_item.xml.flat",
+        "source": "E:\\2022\\MAD Project\\juice_Bar_\\app\\src\\main\\res\\layout\\cart_item.xml"
+    },
+    {
+        "merged": "E:\\2022\\MAD Project\\juice_Bar_\\app\\build\\intermediates\\res\\merged\\debug\\drawable_wljuse.jpg.flat",
+        "source": "E:\\2022\\MAD Project\\juice_Bar_\\app\\src\\main\\res\\drawable\\wljuse.jpg"
+    },
+    {
+        "merged": "E:\\2022\\MAD Project\\juice_Bar_\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\2022\\MAD Project\\juice_Bar_\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\2022\\MAD Project\\juice_Bar_\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_checkout_screen.xml.flat",
+        "source": "E:\\2022\\MAD Project\\juice_Bar_\\app\\src\\main\\res\\layout\\activity_checkout_screen.xml"
+    },
+    {
+        "merged": "E:\\2022\\MAD Project\\juice_Bar_\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\2022\\MAD Project\\juice_Bar_\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\2022\\MAD Project\\juice_Bar_\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_profile_screen.xml.flat",
+        "source": "E:\\2022\\MAD Project\\juice_Bar_\\app\\src\\main\\res\\layout\\activity_profile_screen.xml"
+    },
+    {
+        "merged": "E:\\2022\\MAD Project\\juice_Bar_\\app\\build\\intermediates\\res\\merged\\debug\\font_gilroy.otf.flat",
+        "source": "E:\\2022\\MAD Project\\juice_Bar_\\app\\src\\main\\res\\font\\gilroy.otf"
+    },
+    {
+        "merged": "E:\\2022\\MAD Project\\juice_Bar_\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hall_b.jpg.flat",
+        "source": "E:\\2022\\MAD Project\\juice_Bar_\\app\\src\\main\\res\\drawable\\hall_b.jpg"
+    },
+    {
+        "merged": "E:\\2022\\MAD Project\\juice_Bar_\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mjuse.jpg.flat",
+        "source": "E:\\2022\\MAD Project\\juice_Bar_\\app\\src\\main\\res\\drawable\\mjuse.jpg"
+    },
+    {
+        "merged": "E:\\2022\\MAD Project\\juice_Bar_\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_payment_method_screen.xml.flat",
+        "source": "E:\\2022\\MAD Project\\juice_Bar_\\app\\src\\main\\res\\layout\\activity_payment_method_screen.xml"
+    },
+    {
+        "merged": "E:\\2022\\MAD Project\\juice_Bar_\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ajuse.jpg.flat",
+        "source": "E:\\2022\\MAD Project\\juice_Bar_\\app\\src\\main\\res\\drawable\\ajuse.jpg"
+    },
+    {
+        "merged": "E:\\2022\\MAD Project\\juice_Bar_\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\2022\\MAD Project\\juice_Bar_\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\2022\\MAD Project\\juice_Bar_\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ice.jpg.flat",
+        "source": "E:\\2022\\MAD Project\\juice_Bar_\\app\\src\\main\\res\\drawable\\ice.jpg"
+    },
+    {
+        "merged": "E:\\2022\\MAD Project\\juice_Bar_\\app\\build\\intermediates\\res\\merged\\debug\\drawable_moctail.jpg.flat",
+        "source": "E:\\2022\\MAD Project\\juice_Bar_\\app\\src\\main\\res\\drawable\\moctail.jpg"
+    },
+    {
+        "merged": "E:\\2022\\MAD Project\\juice_Bar_\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\2022\\MAD Project\\juice_Bar_\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\2022\\MAD Project\\juice_Bar_\\app\\build\\intermediates\\res\\merged\\debug\\drawable_plus_icon.png.flat",
+        "source": "E:\\2022\\MAD Project\\juice_Bar_\\app\\src\\main\\res\\drawable\\plus_icon.png"
+    },
+    {
+        "merged": "E:\\2022\\MAD Project\\juice_Bar_\\app\\build\\intermediates\\res\\merged\\debug\\drawable_jc.jpg.flat",
+        "source": "E:\\2022\\MAD Project\\juice_Bar_\\app\\src\\main\\res\\drawable\\jc.jpg"
+    },
+    {
+        "merged": "E:\\2022\\MAD Project\\juice_Bar_\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_desserts_screen.xml.flat",
+        "source": "E:\\2022\\MAD Project\\juice_Bar_\\app\\src\\main\\res\\layout\\activity_desserts_screen.xml"
+    },
+    {
+        "merged": "E:\\2022\\MAD Project\\juice_Bar_\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\2022\\MAD Project\\juice_Bar_\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "E:\\2022\\MAD Project\\juice_Bar_\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_bg_transparent.xml.flat",
+        "source": "E:\\2022\\MAD Project\\juice_Bar_\\app\\src\\main\\res\\drawable\\round_bg_transparent.xml"
+    },
+    {
+        "merged": "E:\\2022\\MAD Project\\juice_Bar_\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cart.png.flat",
+        "source": "E:\\2022\\MAD Project\\juice_Bar_\\app\\src\\main\\res\\drawable\\cart.png"
+    },
+    {
+        "merged": "E:\\2022\\MAD Project\\juice_Bar_\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\2022\\MAD Project\\juice_Bar_\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\2022\\MAD Project\\juice_Bar_\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_admin_screen.xml.flat",
+        "source": "E:\\2022\\MAD Project\\juice_Bar_\\app\\src\\main\\res\\layout\\activity_admin_screen.xml"
+    }
+]
